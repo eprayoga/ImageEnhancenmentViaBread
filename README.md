@@ -1,14 +1,14 @@
 # Tugas Mata Kuliah Pengolahan Citra Digital
-#### Nama   : Endang Prayoga Hidayatulloh
-#### NIM    : 2006189
-
+### Nama   : Endang Prayoga Hidayatulloh
+### NIM    : 2006189
 Referensi Repository
 [mingcv/Bread](https://github.com/mingcv/Bread)
 
+#### Di tujukan untuk memenuhi tugas Mata Kuliah 
+### Pengolahan Citra Digital 
+
 ## [Low-light Image Enhancement via Breaking Down the Darkness](https://arxiv.org/abs/2111.15557)
 by Xiaojie Guo, Qiming Hu.
-
-Di tujukan untuk memenuhi tugas Mata Kuliah Pengolahan Citra Digital 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eprayoga/ImageEnhancenmentViaBread/blob/main/ImageEnhancement.ipynb) (Online Demo)
 
