@@ -4,8 +4,7 @@
 Referensi Repository
 [mingcv/Bread](https://github.com/mingcv/Bread)
 
-#### Di tujukan untuk memenuhi tugas Mata Kuliah 
-### Pengolahan Citra Digital 
+#### Di tujukan untuk memenuhi tugas Mata Kuliah Pengolahan Citra Digital 
 
 ## [Low-light Image Enhancement via Breaking Down the Darkness](https://arxiv.org/abs/2111.15557)
 by Xiaojie Guo, Qiming Hu.
@@ -55,15 +54,3 @@ The images for testing can be downloaded in [this link](https://github.com/mingc
 
 #### 4.3. Trained weights
 Please refer to [our release](https://github.com/mingcv/Bread/releases/tag/checkpoints). 
-
-### 5. Quantitative comparison on eval15
-![table_eval](https://github.com/mingcv/Bread/blob/main/figures/table_eval.png)
-
-### 6. Visual comparison on eval15
-![figure_eval](https://github.com/mingcv/Bread/blob/main/figures/figure_eval.png)
-
-### 7. Visual comparison on DICM
-![figure_test_dicm](https://github.com/mingcv/Bread/blob/main/figures/figure_test_dicm.png)
-
-### 8. Visual comparison on VV and MEF-DS
-![figure_test_vv_mefds](https://github.com/mingcv/Bread/blob/main/figures/figure_test_vv_mefds.png)
