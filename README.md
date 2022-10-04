@@ -10,6 +10,7 @@ by Xiaojie Guo, Qiming Hu.
 
 Di tujukan untuk memenuhi tugas Mata Kuliah Pengolahan Citra Digital 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eprayoga/ImageEnhancenmentViaBread/blob/main/ImageEnhancement.ipynb) (Online Demo)
 [![Open In Colab](https://colab.research.google.com/drive/1fBbzm712YmvRngiTfD-Zpi0x381xtBFa?usp=sharing) (Online Demo)
 
 <!-- ![figure_tease](https://github.com/mingcv/Bread/blob/main/figures/figure_tease.png) --> 
